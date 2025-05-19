@@ -5,6 +5,14 @@
 - Here, we have tried to mimic the slithering motion of a real snake, using servos and Arduino.
 - **Changes made by developers only.**
 
+## Team Description
+- **Team–6** (Robotic Snake)​
+- **Mentor Name** – Arnab Pal​
+- **Team Members** –
+  - Atul Arya
+  - Apurbo Roy​
+  - Sufiyan Ali​
+
 ## Components Required
 ### Mechanical Components
 1. Plastic Sheets (PVC) links​
@@ -29,3 +37,8 @@
 
 ## Basic Use Case
 - This prototype can be used in surveillance by the army in rough terrain by enhancing the model with real skin texture of a snake and adding versatile electric components.​
+
+## References
+- Nevon Projects
+- ChatGPT
+- Robotics Kanti
