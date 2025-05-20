@@ -35,8 +35,82 @@
 - This motion can be mathematically modeled using a serpenoid curve, where each segment follows a sinusoidal path determined by amplitude, wave number, and frequency **θ(s,t) = Asin(ks−ωt)​**
 - **SLITHERING MOTION**: The body of the bot can be made by multiple segments connected with servo motors. Each servo gives 1 Degree of Freedom. Upon the electrical connections The forward propulsion arises from anisotropic friction.
 
-## Basic Use Case
-- This prototype can be used in surveillance by the army in rough terrain by enhancing the model with real skin texture of a snake and adding versatile electric components.​
+## Use Cases
+### 🔧 **1. Search and Rescue Missions**
+
+* **Disaster zones** (e.g., earthquakes, building collapses)
+* Navigate through rubble, tight crevices, and unstable terrain to locate survivors
+* Equipped with cameras, microphones, and sensors for real-time feedback
+
+---
+
+### 🏥 **2. Medical Applications**
+
+* **Minimally invasive surgery**
+
+  * Snake-like robots can be used for navigating through the human body (e.g., endoscopic procedures)
+  * Greater maneuverability inside complex organs like the lungs or brain
+* Examples: Cardiac ablation, targeted drug delivery
+
+---
+
+### 🔬 **3. Industrial Inspection**
+
+* **Pipeline inspection**
+
+  * Oil and gas pipelines, nuclear reactors, water systems
+  * Snake robots can move through narrow, long pipes to detect corrosion, cracks, or blockages
+* **Machinery maintenance**
+
+  * Access parts of large machines without disassembling them
+
+---
+
+### 🔍 **4. Military and Surveillance**
+
+* **Reconnaissance missions**
+
+  * Quiet, stealthy movement allows them to scout enemy areas without detection
+* **Hazardous environment scouting**
+
+  * Detection of landmines, IEDs, or chemical/biological threats
+
+---
+
+### 🧪 **5. Space Exploration**
+
+* **Navigating uneven planetary surfaces**
+
+  * Ideal for exploring the moon, Mars, or asteroids where wheels and legs may fail
+* **Structure inspection**
+
+  * Can inspect spacecraft, satellites, or space station modules internally and externally
+
+---
+
+### 🐍 **6. Environmental Monitoring**
+
+* **Underwater exploration**
+
+  * Snake-like robots can be adapted for underwater use to inspect coral reefs, shipwrecks, or submerged caves
+* **Cave and tunnel inspection**
+
+  * Useful for geological and archaeological surveys in places where humans can't go
+
+---
+
+### 🏗️ **7. Construction and Infrastructure**
+
+* Reach into inaccessible parts of a building or bridge for inspection or repair
+* Lay wiring or piping in tight or irregularly shaped spaces
+
+---
+
+### 🎓 **8. Education and Research**
+
+* Study of biomechanics (e.g., how snakes move)
+* Algorithm testing for locomotion, path planning, and control systems
+* Human-robot interaction research
 
 ## References
 - Nevon Projects
