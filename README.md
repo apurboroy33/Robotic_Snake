@@ -1,4 +1,4 @@
-# robotic_snake
+# Robotic_Snake
 ## Introduction
 - This is a repo for our **Robolution Internship Project: Robotic Snake**.
 - **Robotic Snake** (Electro-Slither) is a robot mimicking actual snake's lateral undulation and precise use of kinematic equations to replicate real snake motion.
