@@ -17,15 +17,15 @@
 ### Mechanical Components
 1. Plastic Sheets (PVC) links​
 2. Small wheels​
-3. Nuts & Bolts
-4. Wire clips
+3. Jumper wires
+5. Nuts & Bolts
+6. Wire clips
 ### Electrical Components
 1. Arduino Uno R3
 2. Micro servo motors​ (10)
 3. Cables and connectors
 4. Breadboard (for prototyping)
 5. Dry cell battery
-6. Capacitors & Resistors (may vary accordingly)
 
 ## About the Physics
 - The physics behind a robotic snake’s motion is rooted in the principles of wave kinematics, frictional mechanics, and internal force distribution.
