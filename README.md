@@ -17,16 +17,14 @@
 ### Mechanical Components
 1. Plastic Sheets (PVC) links​
 2. Small wheels​
-3. Bearings
-4. Nuts & Bolts
-5. Velcro
-6. Wire clips
+3. Nuts & Bolts
+4. Wire clips
 ### Electrical Components
 1. Arduino Uno R3
 2. Micro servo motors​ (10)
 3. Cables and connectors
 4. Breadboard (for prototyping)
-5. LiPo Battery
+5. Dry cell battery
 6. Capacitors & Resistors (may vary accordingly)
 
 ## About the Physics
