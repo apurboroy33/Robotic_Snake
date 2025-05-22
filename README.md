@@ -27,7 +27,7 @@
 4. Breadboard (for prototyping)
 5. Dry cell battery
 
-## Circuit Demo
+## Circuit Diagram
 
 <img src="media/Robotic Snake Tinkercad.png" style="width:1200px;"/>
 
