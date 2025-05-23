@@ -27,6 +27,10 @@
 4. Breadboard (for prototyping)
 5. Dry cell battery
 
+## Circuit Diagram
+
+<img src="media/Robotic Snake Tinkercad.png" style="width:1200px;"/>
+
 ## About the Physics
 - The physics behind a robotic snake’s motion is rooted in the principles of wave kinematics, frictional mechanics, and internal force distribution.
 - Snake robots mimic the natural slithering of real snakes using a traveling wave-like motion called lateral undulation, which propagates from head to tail.
