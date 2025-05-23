@@ -39,7 +39,7 @@
 
 ## Project Demo
 
-<!-- <img src="media/Robo_Snake_gif.png" style="width:1200px;"/> -->
+<img src="media/Robo_Snake_gif.gif" style="width:1200px;"/>
 
 ## Use Cases
 ### 🔧 **1. Search and Rescue Missions**
