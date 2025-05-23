@@ -29,7 +29,7 @@
 
 ## Circuit Diagram
 
-<img src="media/Robotic Snake Tinkercad.png" style="width:1200px;"/>
+<img src="media/Robotic_Snake_img.png" style="width:1200px;"/>
 
 ## About the Physics
 - The physics behind a robotic snake’s motion is rooted in the principles of wave kinematics, frictional mechanics, and internal force distribution.
