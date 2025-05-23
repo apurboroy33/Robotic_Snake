@@ -37,6 +37,10 @@
 - This motion can be mathematically modeled using a serpenoid curve, where each segment follows a sinusoidal path determined by amplitude, wave number, and frequency **θ(s,t) = Asin(ks−ωt)​**
 - **SLITHERING MOTION**: The body of the bot can be made by multiple segments connected with servo motors. Each servo gives 1 Degree of Freedom. Upon the electrical connections The forward propulsion arises from anisotropic friction.
 
+## Project Demo
+
+<!-- <img src="media/Robo_Snake_gif.png" style="width:1200px;"/> -->
+
 ## Use Cases
 ### 🔧 **1. Search and Rescue Missions**
 
