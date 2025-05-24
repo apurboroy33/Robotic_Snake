@@ -42,7 +42,7 @@
 <img src="media/Robo_Snake_gif.gif" style="width:1200px;"/>
 
 ## Use Cases
-### 🔧 **1. Search and Rescue Missions**
+### **1. Search and Rescue Missions**
 
 * **Disaster zones** (e.g., earthquakes, building collapses)
 * Navigate through rubble, tight crevices, and unstable terrain to locate survivors
@@ -50,7 +50,7 @@
 
 ---
 
-### 🏥 **2. Medical Applications**
+### **2. Medical Applications**
 
 * **Minimally invasive surgery**
 
@@ -60,7 +60,7 @@
 
 ---
 
-### 🔬 **3. Industrial Inspection**
+### **3. Industrial Inspection**
 
 * **Pipeline inspection**
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 🔍 **4. Military and Surveillance**
+### **4. Military and Surveillance**
 
 * **Reconnaissance missions**
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 🧪 **5. Space Exploration**
+### **5. Space Exploration**
 
 * **Navigating uneven planetary surfaces**
 
@@ -94,7 +94,7 @@
 
 ---
 
-### 🐍 **6. Environmental Monitoring**
+### **6. Environmental Monitoring**
 
 * **Underwater exploration**
 
@@ -105,14 +105,14 @@
 
 ---
 
-### 🏗️ **7. Construction and Infrastructure**
+### **7. Construction and Infrastructure**
 
 * Reach into inaccessible parts of a building or bridge for inspection or repair
 * Lay wiring or piping in tight or irregularly shaped spaces
 
 ---
 
-### 🎓 **8. Education and Research**
+### **8. Education and Research**
 
 * Study of biomechanics (e.g., how snakes move)
 * Algorithm testing for locomotion, path planning, and control systems
